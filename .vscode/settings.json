@@ -1,0 +1,8 @@
+{
+    "php.validate.executablePath": "",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorSurroundingLinesStyle": "all",
+    "editor.cursorWidth": 3,
+    "editor.cursorSurroundingLines": 2
+}

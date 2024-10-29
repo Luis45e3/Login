@@ -1,0 +1,6 @@
+{
+    "name": "mi-pro/mi-log",
+    "require": {
+        "php": "^7.4 || ^8.0"
+    }
+}
